@@ -97,7 +97,6 @@ flutter run
 ```
 
 Note: Add your AI API key locally inside ai_service.dart.
-Do not commit API keys to GitHub.
 
 📌 Future Enhancements
 AI voice output (Text-to-Speech)
